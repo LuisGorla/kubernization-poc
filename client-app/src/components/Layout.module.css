@@ -1,0 +1,12 @@
+.wrapper {
+    width: 100vw;
+    max-width: 800px;
+    height: 100vh;
+    padding: 10px 20px;
+    /* background: white;
+    box-shadow: #00000017 0 0 10px 0px; */
+}
+.title {
+    margin-bottom: 10px;
+    text-align: center;
+}
